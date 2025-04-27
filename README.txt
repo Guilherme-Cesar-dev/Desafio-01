@@ -1,4 +1,3 @@
-Arthur Soares, Guilherme César, Guilherme Santos
 
 Montar um sistema para ajudar a comunidade 
 
